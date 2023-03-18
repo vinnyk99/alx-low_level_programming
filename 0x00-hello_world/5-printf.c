@@ -1,10 +1,7 @@
-#inlude <stdio.h>
-/**
- * main - a program that prints a line
- * Return: 0
- */
+#include <stdio.h>
+
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+    printf("%s, but the outcome is a piece of art.\n", "With proper grammar");
+    return (0);
 }
